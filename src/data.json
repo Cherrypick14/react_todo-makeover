@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "event": "Finish coding feature at work",
+        "finished": true
+    },
+    {
+        "id":2,
+        "event": "Order a takeout from Taco Bell",
+        "finished": false
+    },
+    {
+        "id":3,
+        "event": "Meet up with collegues",
+        "finished": true
+    },
+    {
+        "id":4,
+        "event": "Feed my Cat",
+        "finished": false
+    },
+    {
+        "id":5,
+        "event": "make office phone calls",
+        "finished": false
+    },
+    {
+        "id":6,
+        "event": "Read book tonight",
+        "finished": false
+    }
+]
